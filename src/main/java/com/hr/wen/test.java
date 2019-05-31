@@ -8,6 +8,4 @@ public class test {
 		System.out.println("dw1dwddwdw1d1wsss");
 	}
 
-
-
 }
